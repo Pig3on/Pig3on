@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hello 👋
+
+Freelance React/React Native Developer by day 💻
+
+Pigeon by night 🐦
+
+Currently working on a redesign of [my personal webiste](https://zhoonpository.xyz) where you can find:
+* Contact info
+* Stuff im working on via a blog
+* And more about me
 
 <!--
 **Pig3on/Pig3on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
